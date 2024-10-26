@@ -2,11 +2,10 @@
 venv/
 
 #ignorer:
-#mlruns/
 
 data_drift/application_test.csv
 data_drift/application_train.csv
-data_drift/rapport_data_drift.html
+#data_drift/rapport_data_drift.html
 data_drift/data_drift.ipynb
 
 
