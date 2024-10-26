@@ -5,17 +5,14 @@ venv/
 
 data_drift/application_test.csv
 data_drift/application_train.csv
-#data_drift/data_drift.ipynb
-
 
 api/nouveaux_clients.csv
 api/df_test_api.csv
 
-
-mlruns/models/lightGBM_model_final.joblib
-mlruns/models/logistic_regression_model_final.joblib
-mlruns/models/random_forest_model_final.joblib
-mlruns/models/random_forest_model_f.joblib
+#mlruns/models/lightGBM_model_final.joblib
+#mlruns/models/logistic_regression_model_final.joblib
+#mlruns/models/random_forest_model_final.joblib
+#mlruns/models/random_forest_model_f.joblib
 
 api/scaler.joblib
 
