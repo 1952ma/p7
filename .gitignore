@@ -9,13 +9,6 @@ data_drift/application_train.csv
 api/nouveaux_clients.csv
 api/df_test_api.csv
 
-#mlruns/models/lightGBM_model_final.joblib
-#mlruns/models/logistic_regression_model_final.joblib
-#mlruns/models/random_forest_model_final.joblib
-#mlruns/models/random_forest_model_f.joblib
-
-api/scaler.joblib
-
 api/df_clients.csv
 
 
