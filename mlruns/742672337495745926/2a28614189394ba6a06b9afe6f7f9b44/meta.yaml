@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/2a28614189394ba6a06b9afe6f7f9b44/artifacts
+end_time: 1729792146452
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 2a28614189394ba6a06b9afe6f7f9b44
+run_name: ambitious-moose-378
+run_uuid: 2a28614189394ba6a06b9afe6f7f9b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729792140434
+status: 3
+tags: []
+user_id: HP

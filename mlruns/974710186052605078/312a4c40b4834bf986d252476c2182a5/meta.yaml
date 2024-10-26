@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/974710186052605078/312a4c40b4834bf986d252476c2182a5/artifacts
+end_time: 1729775845465
+entry_point_name: ''
+experiment_id: '974710186052605078'
+lifecycle_stage: active
+run_id: 312a4c40b4834bf986d252476c2182a5
+run_name: illustrious-hen-109
+run_uuid: 312a4c40b4834bf986d252476c2182a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729775838712
+status: 3
+tags: []
+user_id: HP

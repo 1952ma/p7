@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/c23d30273bc94c5fadb6d6d9b21c7844/artifacts
+end_time: 1729782905370
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: c23d30273bc94c5fadb6d6d9b21c7844
+run_name: crawling-mink-953
+run_uuid: c23d30273bc94c5fadb6d6d9b21c7844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729782900025
+status: 3
+tags: []
+user_id: HP

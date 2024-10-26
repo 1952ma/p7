@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/80a9e3b263f14a618503cd7e718a3597/artifacts
+end_time: 1729786272354
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: 80a9e3b263f14a618503cd7e718a3597
+run_name: rumbling-penguin-562
+run_uuid: 80a9e3b263f14a618503cd7e718a3597
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729786267220
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/025d5fc4ef0c47328678744cbf195158/artifacts
+end_time: 1729790214773
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 025d5fc4ef0c47328678744cbf195158
+run_name: whimsical-rat-270
+run_uuid: 025d5fc4ef0c47328678744cbf195158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729790209523
+status: 3
+tags: []
+user_id: HP

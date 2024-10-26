@@ -2,7 +2,7 @@
 venv/
 
 #ignorer:
-mlruns/
+#mlruns/
 
 data_drift/application_test.csv
 data_drift/application_train.csv
@@ -25,5 +25,4 @@ api/scaler.joblib
 
 api/df_clients.csv
 
-p7_notebook_cleaning.ipynb
 

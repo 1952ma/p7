@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/ce6b060e47a54a0699f79f6f50413de8/artifacts
+end_time: 1729787257364
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: ce6b060e47a54a0699f79f6f50413de8
+run_name: amazing-boar-900
+run_uuid: ce6b060e47a54a0699f79f6f50413de8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729787252192
+status: 3
+tags: []
+user_id: HP

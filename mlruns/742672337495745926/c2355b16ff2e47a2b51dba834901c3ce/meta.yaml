@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/c2355b16ff2e47a2b51dba834901c3ce/artifacts
+end_time: 1729793013050
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: c2355b16ff2e47a2b51dba834901c3ce
+run_name: bedecked-colt-374
+run_uuid: c2355b16ff2e47a2b51dba834901c3ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729793007395
+status: 3
+tags: []
+user_id: HP

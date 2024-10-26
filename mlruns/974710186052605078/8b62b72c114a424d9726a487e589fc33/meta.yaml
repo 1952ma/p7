@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/974710186052605078/8b62b72c114a424d9726a487e589fc33/artifacts
+end_time: 1729775355270
+entry_point_name: ''
+experiment_id: '974710186052605078'
+lifecycle_stage: active
+run_id: 8b62b72c114a424d9726a487e589fc33
+run_name: judicious-zebra-780
+run_uuid: 8b62b72c114a424d9726a487e589fc33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729775342470
+status: 3
+tags: []
+user_id: HP

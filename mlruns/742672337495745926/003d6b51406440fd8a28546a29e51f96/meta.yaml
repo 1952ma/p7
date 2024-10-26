@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/003d6b51406440fd8a28546a29e51f96/artifacts
+end_time: 1729790592301
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 003d6b51406440fd8a28546a29e51f96
+run_name: mercurial-rook-347
+run_uuid: 003d6b51406440fd8a28546a29e51f96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729790587117
+status: 3
+tags: []
+user_id: HP

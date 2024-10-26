@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/47646df3fb5a459182b380d540e6a1dd/artifacts
+end_time: 1729789236513
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: 47646df3fb5a459182b380d540e6a1dd
+run_name: chill-rook-983
+run_uuid: 47646df3fb5a459182b380d540e6a1dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729789236434
+status: 3
+tags: []
+user_id: HP

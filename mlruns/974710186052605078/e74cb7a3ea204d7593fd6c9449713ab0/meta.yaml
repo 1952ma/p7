@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/974710186052605078/e74cb7a3ea204d7593fd6c9449713ab0/artifacts
+end_time: 1729775601079
+entry_point_name: ''
+experiment_id: '974710186052605078'
+lifecycle_stage: active
+run_id: e74cb7a3ea204d7593fd6c9449713ab0
+run_name: calm-mule-111
+run_uuid: e74cb7a3ea204d7593fd6c9449713ab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729775596134
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/144d13cfb079405a9174df132abd0f9e/artifacts
+end_time: 1729786526729
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: 144d13cfb079405a9174df132abd0f9e
+run_name: luminous-vole-430
+run_uuid: 144d13cfb079405a9174df132abd0f9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729786521513
+status: 3
+tags: []
+user_id: HP

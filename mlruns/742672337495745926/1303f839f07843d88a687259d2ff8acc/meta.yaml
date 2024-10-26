@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/1303f839f07843d88a687259d2ff8acc/artifacts
+end_time: 1729793185915
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 1303f839f07843d88a687259d2ff8acc
+run_name: abrasive-stag-862
+run_uuid: 1303f839f07843d88a687259d2ff8acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729793180268
+status: 3
+tags: []
+user_id: HP

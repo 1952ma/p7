@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/fe041771ca2c4f91a7a0085ccde76e57/artifacts
+end_time: 1729792811502
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: fe041771ca2c4f91a7a0085ccde76e57
+run_name: carefree-skunk-562
+run_uuid: fe041771ca2c4f91a7a0085ccde76e57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729792805846
+status: 3
+tags: []
+user_id: HP

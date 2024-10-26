@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/3c9b36c3b6f242b784f9d611f7afeaec/artifacts
+end_time: 1729782182780
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: 3c9b36c3b6f242b784f9d611f7afeaec
+run_name: capricious-shad-857
+run_uuid: 3c9b36c3b6f242b784f9d611f7afeaec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729782177110
+status: 3
+tags: []
+user_id: HP

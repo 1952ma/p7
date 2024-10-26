@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/851392dd751f42ef985e89c7090f0b2b/artifacts
+end_time: 1729793480304
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 851392dd751f42ef985e89c7090f0b2b
+run_name: welcoming-hare-990
+run_uuid: 851392dd751f42ef985e89c7090f0b2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729793474604
+status: 3
+tags: []
+user_id: HP

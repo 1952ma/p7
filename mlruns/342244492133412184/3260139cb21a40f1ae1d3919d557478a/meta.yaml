@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/3260139cb21a40f1ae1d3919d557478a/artifacts
+end_time: 1729786411229
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: 3260139cb21a40f1ae1d3919d557478a
+run_name: luminous-pig-357
+run_uuid: 3260139cb21a40f1ae1d3919d557478a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729786406034
+status: 3
+tags: []
+user_id: HP

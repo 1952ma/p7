@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/b62744fa8c9842b5849c8696fd874efa/artifacts
+end_time: 1729791288991
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: b62744fa8c9842b5849c8696fd874efa
+run_name: angry-shad-853
+run_uuid: b62744fa8c9842b5849c8696fd874efa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729791283906
+status: 3
+tags: []
+user_id: HP

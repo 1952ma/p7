@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/d4b6be6b00084b1498f0b8b0a20d8292/artifacts
+end_time: 1729793291502
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: d4b6be6b00084b1498f0b8b0a20d8292
+run_name: monumental-ape-97
+run_uuid: d4b6be6b00084b1498f0b8b0a20d8292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729793286020
+status: 3
+tags: []
+user_id: HP

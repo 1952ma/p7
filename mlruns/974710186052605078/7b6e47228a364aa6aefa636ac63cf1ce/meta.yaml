@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/974710186052605078/7b6e47228a364aa6aefa636ac63cf1ce/artifacts
+end_time: 1729775881552
+entry_point_name: ''
+experiment_id: '974710186052605078'
+lifecycle_stage: active
+run_id: 7b6e47228a364aa6aefa636ac63cf1ce
+run_name: colorful-robin-850
+run_uuid: 7b6e47228a364aa6aefa636ac63cf1ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729775876709
+status: 3
+tags: []
+user_id: HP

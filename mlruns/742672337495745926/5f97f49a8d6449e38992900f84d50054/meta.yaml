@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/5f97f49a8d6449e38992900f84d50054/artifacts
+end_time: 1729790979748
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 5f97f49a8d6449e38992900f84d50054
+run_name: delicate-bass-911
+run_uuid: 5f97f49a8d6449e38992900f84d50054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729790974565
+status: 3
+tags: []
+user_id: HP

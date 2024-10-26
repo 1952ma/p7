@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/d19f8f339b544988b4dee16522a627bb/artifacts
+end_time: 1729793690934
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: d19f8f339b544988b4dee16522a627bb
+run_name: shivering-hen-73
+run_uuid: d19f8f339b544988b4dee16522a627bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729793685204
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/974710186052605078/b60e1be349a84a11a37db501ec9d1deb/artifacts
+end_time: 1729775852649
+entry_point_name: ''
+experiment_id: '974710186052605078'
+lifecycle_stage: active
+run_id: b60e1be349a84a11a37db501ec9d1deb
+run_name: abundant-seal-663
+run_uuid: b60e1be349a84a11a37db501ec9d1deb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729775847645
+status: 3
+tags: []
+user_id: HP

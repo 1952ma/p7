@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/e661540755b64f518ba78f4a4ffca6dc/artifacts
+end_time: 1729792317455
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: e661540755b64f518ba78f4a4ffca6dc
+run_name: redolent-kit-516
+run_uuid: e661540755b64f518ba78f4a4ffca6dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729792310988
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/c9d56cee14af4bcbad422f3dc7f3f48c/artifacts
+end_time: 1729791074847
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: c9d56cee14af4bcbad422f3dc7f3f48c
+run_name: traveling-conch-948
+run_uuid: c9d56cee14af4bcbad422f3dc7f3f48c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729791069547
+status: 3
+tags: []
+user_id: HP

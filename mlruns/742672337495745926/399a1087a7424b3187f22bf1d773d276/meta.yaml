@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/399a1087a7424b3187f22bf1d773d276/artifacts
+end_time: 1729791631934
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 399a1087a7424b3187f22bf1d773d276
+run_name: clean-kite-907
+run_uuid: 399a1087a7424b3187f22bf1d773d276
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729791626338
+status: 3
+tags: []
+user_id: HP

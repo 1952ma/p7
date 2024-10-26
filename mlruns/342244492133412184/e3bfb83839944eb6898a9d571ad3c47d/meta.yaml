@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/e3bfb83839944eb6898a9d571ad3c47d/artifacts
+end_time: 1729782833012
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: e3bfb83839944eb6898a9d571ad3c47d
+run_name: able-steed-860
+run_uuid: e3bfb83839944eb6898a9d571ad3c47d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729782828060
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/7fb5fcf7878541b6a90c758d7b46288e/artifacts
+end_time: 1729793581536
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 7fb5fcf7878541b6a90c758d7b46288e
+run_name: popular-crane-484
+run_uuid: 7fb5fcf7878541b6a90c758d7b46288e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729793575614
+status: 3
+tags: []
+user_id: HP

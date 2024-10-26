@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/d2a36263684f487ebc7eca94ec4a03ad/artifacts
+end_time: 1729786458081
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: d2a36263684f487ebc7eca94ec4a03ad
+run_name: delicate-zebra-1
+run_uuid: d2a36263684f487ebc7eca94ec4a03ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729786453029
+status: 3
+tags: []
+user_id: HP

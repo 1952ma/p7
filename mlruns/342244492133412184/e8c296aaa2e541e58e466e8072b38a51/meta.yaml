@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/e8c296aaa2e541e58e466e8072b38a51/artifacts
+end_time: 1729786179566
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: e8c296aaa2e541e58e466e8072b38a51
+run_name: rogue-finch-788
+run_uuid: e8c296aaa2e541e58e466e8072b38a51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729786174467
+status: 3
+tags: []
+user_id: HP

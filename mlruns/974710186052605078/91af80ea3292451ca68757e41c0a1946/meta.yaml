@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/974710186052605078/91af80ea3292451ca68757e41c0a1946/artifacts
+end_time: 1729775363742
+entry_point_name: ''
+experiment_id: '974710186052605078'
+lifecycle_stage: active
+run_id: 91af80ea3292451ca68757e41c0a1946
+run_name: funny-stag-674
+run_uuid: 91af80ea3292451ca68757e41c0a1946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729775358249
+status: 3
+tags: []
+user_id: HP

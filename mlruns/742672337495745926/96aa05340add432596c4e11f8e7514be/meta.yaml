@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/96aa05340add432596c4e11f8e7514be/artifacts
+end_time: 1729790076615
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 96aa05340add432596c4e11f8e7514be
+run_name: colorful-turtle-954
+run_uuid: 96aa05340add432596c4e11f8e7514be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729790071066
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/0ac4b670d72849ca8c8ebd93c87fa0ed/artifacts
+end_time: 1729791963516
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 0ac4b670d72849ca8c8ebd93c87fa0ed
+run_name: sassy-moth-249
+run_uuid: 0ac4b670d72849ca8c8ebd93c87fa0ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729791958006
+status: 3
+tags: []
+user_id: HP

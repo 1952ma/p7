@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/2b555de0fd0248a4a4f67b2d904151ea/artifacts
+end_time: 1729785816710
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: 2b555de0fd0248a4a4f67b2d904151ea
+run_name: amazing-zebra-434
+run_uuid: 2b555de0fd0248a4a4f67b2d904151ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729785810820
+status: 3
+tags: []
+user_id: HP

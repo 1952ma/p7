@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/3e1a67035b414ade896c1acb964c2d75/artifacts
+end_time: 1729792638506
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 3e1a67035b414ade896c1acb964c2d75
+run_name: gregarious-crow-566
+run_uuid: 3e1a67035b414ade896c1acb964c2d75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729792633032
+status: 3
+tags: []
+user_id: HP

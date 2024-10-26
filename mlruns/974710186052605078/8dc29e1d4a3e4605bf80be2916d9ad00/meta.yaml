@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/974710186052605078/8dc29e1d4a3e4605bf80be2916d9ad00/artifacts
+end_time: 1729775700694
+entry_point_name: ''
+experiment_id: '974710186052605078'
+lifecycle_stage: active
+run_id: 8dc29e1d4a3e4605bf80be2916d9ad00
+run_name: placid-squirrel-227
+run_uuid: 8dc29e1d4a3e4605bf80be2916d9ad00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729775694800
+status: 3
+tags: []
+user_id: HP

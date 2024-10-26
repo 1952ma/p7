@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/196b5236577247d9af4f967993b1a6f7/artifacts
+end_time: 1729792414102
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 196b5236577247d9af4f967993b1a6f7
+run_name: thundering-hen-627
+run_uuid: 196b5236577247d9af4f967993b1a6f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729792408507
+status: 3
+tags: []
+user_id: HP

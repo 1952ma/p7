@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/0c026fce5b9d4786a02c6b2c14944a84/artifacts
+end_time: 1729791554030
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 0c026fce5b9d4786a02c6b2c14944a84
+run_name: marvelous-donkey-956
+run_uuid: 0c026fce5b9d4786a02c6b2c14944a84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729791548730
+status: 3
+tags: []
+user_id: HP

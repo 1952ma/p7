@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/24cf56bd45074cc582b18f7551ce6f79/artifacts
+end_time: 1729782132252
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: 24cf56bd45074cc582b18f7551ce6f79
+run_name: youthful-grub-506
+run_uuid: 24cf56bd45074cc582b18f7551ce6f79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729782127372
+status: 3
+tags: []
+user_id: HP

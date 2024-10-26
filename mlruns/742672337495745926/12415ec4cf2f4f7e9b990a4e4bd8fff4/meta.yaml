@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/12415ec4cf2f4f7e9b990a4e4bd8fff4/artifacts
+end_time: 1729791883967
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 12415ec4cf2f4f7e9b990a4e4bd8fff4
+run_name: redolent-hen-190
+run_uuid: 12415ec4cf2f4f7e9b990a4e4bd8fff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729791878537
+status: 3
+tags: []
+user_id: HP

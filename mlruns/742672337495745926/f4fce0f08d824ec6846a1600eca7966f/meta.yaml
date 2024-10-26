@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/f4fce0f08d824ec6846a1600eca7966f/artifacts
+end_time: 1729793373421
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: f4fce0f08d824ec6846a1600eca7966f
+run_name: aged-ray-529
+run_uuid: f4fce0f08d824ec6846a1600eca7966f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729793367780
+status: 3
+tags: []
+user_id: HP

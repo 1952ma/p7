@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/974710186052605078/d985e916da5d4749a8bd20346ba7490c/artifacts
+end_time: 1729775825468
+entry_point_name: ''
+experiment_id: '974710186052605078'
+lifecycle_stage: active
+run_id: d985e916da5d4749a8bd20346ba7490c
+run_name: angry-smelt-525
+run_uuid: d985e916da5d4749a8bd20346ba7490c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729775819872
+status: 3
+tags: []
+user_id: HP

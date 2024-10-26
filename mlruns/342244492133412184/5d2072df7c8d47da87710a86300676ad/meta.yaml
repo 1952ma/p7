@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/5d2072df7c8d47da87710a86300676ad/artifacts
+end_time: 1729786357606
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: 5d2072df7c8d47da87710a86300676ad
+run_name: handsome-flea-349
+run_uuid: 5d2072df7c8d47da87710a86300676ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729786352299
+status: 3
+tags: []
+user_id: HP

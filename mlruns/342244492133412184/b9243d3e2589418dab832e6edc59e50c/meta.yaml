@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/342244492133412184/b9243d3e2589418dab832e6edc59e50c/artifacts
+end_time: 1729786253864
+entry_point_name: ''
+experiment_id: '342244492133412184'
+lifecycle_stage: active
+run_id: b9243d3e2589418dab832e6edc59e50c
+run_name: stately-toad-56
+run_uuid: b9243d3e2589418dab832e6edc59e50c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729786248836
+status: 3
+tags: []
+user_id: HP

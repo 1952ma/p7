@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/HP/Documents/p7_modele_scoring/mlruns/742672337495745926/93ec66806b6a4d9fa6c64018c6a74ecb/artifacts
+end_time: 1729792010706
+entry_point_name: ''
+experiment_id: '742672337495745926'
+lifecycle_stage: active
+run_id: 93ec66806b6a4d9fa6c64018c6a74ecb
+run_name: rebellious-slug-826
+run_uuid: 93ec66806b6a4d9fa6c64018c6a74ecb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729792005273
+status: 3
+tags: []
+user_id: HP
